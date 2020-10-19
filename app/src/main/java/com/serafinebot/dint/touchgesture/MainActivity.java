@@ -1,11 +1,10 @@
 package com.serafinebot.dint.touchgesture;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.view.MotionEventCompat;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MotionEvent;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     private static final String LOG_TAG = "MainActivity";
